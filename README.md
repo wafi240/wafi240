@@ -6,6 +6,13 @@
   </a>
 </p>
 
+<!-- Highlights Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Team-KUET__triXOR-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white" alt="Team KUET_triXOR"/>
+  <img src="https://img.shields.io/badge/SGIPC-Associative%20Member-0AA3E0?style=for-the-badge&logo=google-forms&logoColor=white" alt="SGIPC Member"/>
+  <img src="https://img.shields.io/badge/Blitzcup-Champion-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white" alt="Blitzcup Champion"/>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SamunSadabWafi&label=Profile%20views&color=0b87d0&style=for-the-badge" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/SamunSadabWafi?style=for-the-badge" alt="followers"/>
@@ -17,11 +24,10 @@
 ## 🌟 About Me
 - 🎓 Student of **CSE, KUET**
 - 🌱 Currently learning **C++**, **CSS**, **Web Development**, and **Data Structures & Algorithms**  
-- 🔭 Building **Roommate Details Management** (HTML & CSS)  
 - 🤔 Exploring **competitive programming** & **algorithmic challenges**  
 - 💡 Curious about how things work under the hood  
 - 🙏 Coding with consistency and daily prayers
-- 🤝 Associative member at **SGIPC** (Competitive Programming Club at KUET)
+- 🤝 **Associative Member at SGIPC** *(Competitive Programming Club of KUET)*
 
 ---
 
@@ -52,8 +58,8 @@
   <a href="https://leetcode.com/u/wafi1213/" target="_blank" title="LeetCode"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" alt="LeetCode"/></a>
 </p>
 
+- 🏆 **Team (VJudge):** <ins><strong>KUET_triXOR</strong></ins>  
 - **CSES:** `wafi1213`  
-- **Team (VJudge):** `KUET_triXOR`
 
 ---
 
@@ -123,6 +129,17 @@
 - [ ] 200+ DSA problems  
 - [ ] Build 3 mini web projects (HTML/CSS/JS)  
 - [ ] Participate in 5+ contests this semester  
+
+---
+
+## 🏆 Achievements (School & College)
+- 🏅 **Blitzcup Champion** — *online solo contest of Competitive Programming*  
+- 🥈 **2nd** in Photography Contest  
+- 🥇 **1st** in English Speech  
+- 🏫 **Former House Captain** — *Sher-E-Bangla House*, Bogura Cantt Public School & College  
+- 🥈 **2nd** in Science Olympiad  
+- 🧭 **Advisor** in Debate  
+- 🏅 **6th** in Inter-Cantt Math Olympiad
 
 ---
 

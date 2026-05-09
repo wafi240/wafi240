@@ -1,5 +1,4 @@
-<!-- Header -->
-<h1 align="center">Hi 👋, I'm <span style="color:#00bfff;">Samun Sadab Wafi</span></h1>
+# Hi 👋, I'm Samun Sadab Wafi
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -15,7 +14,6 @@
   <img align="center" alt="coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif4.gif"/>
 </p>
 
-<!-- Divider -->
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🌟 About Me
@@ -25,7 +23,6 @@
 > - 🧩 Member at **Bit2Byte** (Development Club, KUET)  
 > - 🙏 Coding with consistency and daily prayers
 
-<!-- Divider -->
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🧰 Skillset
@@ -35,17 +32,13 @@
 **Interests:** Problem-solving, Debugging, Open-source  
 **Extras:** **Competitive Programming Enthusiast**, **Story writing**, **Public speech**
 
-<!-- Skill Badges -->
 <p align="left">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <!-- Design -->
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
   <img src="https://img.shields.io/badge/Snapseed-34A853?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white" />
@@ -53,7 +46,6 @@
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
-<!-- Icons Row -->
 <p align="left">
   <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C"/></a>
   <a href="https://isocpp.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++"/></a>
@@ -63,7 +55,6 @@
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git"/></a>
 </p>
 
-<!-- Divider -->
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🏁 Competitive Programming — <em>Highlighted</em>
@@ -75,7 +66,7 @@ I love solving algorithmic problems and competing online. Here are my profiles (
 | Codeforces | `wafi1213` | https://codeforces.com/profile/wafi1213 |
 | VJudge | `sswafi` | https://vjudge.net/user/sswafi |
 | AtCoder | `wafi1213` | https://atcoder.jp/users/wafi1213 |
-| CSES | `wafi1213` | https://cses.fi |
+| CSES | `wafi1213` | https://cses.fi/problemset/ |
 | Toph | `sswafi1314` | https://toph.co/u/sswafi1314 |
 | CodeChef | `sswafi1314` | https://www.codechef.com/users/sswafi1314 |
 | LeetCode | `wafi1213` | https://leetcode.com/u/wafi1213/ |
@@ -84,10 +75,9 @@ I love solving algorithmic problems and competing online. Here are my profiles (
 
 ### 📈 Codeforces Stats
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=wafi1213&theme=dark" alt="Codeforces Stats"/>
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=wafi1213&theme=midnight-purple&hide_border=true" alt="Codeforces Stats"/>
 </p>
 
-<!-- Divider -->
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 📌 Featured Projects
@@ -113,7 +103,6 @@ I love solving algorithmic problems and competing online. Here are my profiles (
   <br/><sub><i>Add repo link when public.</i></sub>
 </details>
 
-<!-- Divider -->
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🏆 Achievements (School & College)
@@ -133,7 +122,6 @@ I love solving algorithmic problems and competing online. Here are my profiles (
   </tr>
 </table>
 
-<!-- Divider -->
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
 ## 🔗 Connect with Me
@@ -152,14 +140,18 @@ I love solving algorithmic problems and competing online. Here are my profiles (
 - 📧 **Email:** `sswafi1314@gmail.com`  
 - 🔁 **Backup:** `wafiii003@gmail.com`
 
-<!-- Divider -->
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🔥 Contribution Graph
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SamunSadabWafi&bg_color=0d1117&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamunSadabWafi&hide_border=true" alt="activity graph"/>
-</picture>
+## 🔥 Codeforces Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamunSadabWafi/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Heatmap Dark"/>
+  <img src="https://raw.githubusercontent.com/SamunSadabWafi/cf-stats/main/output/light_card.svg" alt="Codeforces Heatmap"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SamunSadabWafi/cf-stats/main/output/max_rating.svg" alt="Max Rating"/>
+  <img src="https://raw.githubusercontent.com/SamunSadabWafi/cf-stats/main/output/rating.svg" alt="Current Rating"/>
+</p>
 
 ## 🏅 Trophies
 <p align="center">

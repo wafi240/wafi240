@@ -129,8 +129,8 @@ I love solving algorithmic problems and competing online. Here are my profiles (
   <a href="mailto:sswafi1314@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-sswafi1314%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ss-wafi-a5632b38a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ss--wafi--a5632b38a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/samun-sadab-wafi-a5632b38a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-samun--sadab--wafi--a5632b38a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/samunsadab.wafi" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-samunsadab.wafi-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -141,13 +141,6 @@ I love solving algorithmic problems and competing online. Here are my profiles (
 - 🔁 **Backup:** `wafiii003@gmail.com`
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-## 🏅 Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamunSadabWafi&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="trophies"/>
-</p>
-
----
 
 <p align="center">
   <i>"The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie</i><br/>

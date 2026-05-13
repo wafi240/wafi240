@@ -142,17 +142,6 @@ I love solving algorithmic problems and competing online. Here are my profiles (
 
 <p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
 
-## 🔥 Codeforces Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SamunSadabWafi/cf-stats/main/output/light_card.svg#gh-dark-mode-only" alt="Codeforces Heatmap Dark"/>
-  <img src="https://raw.githubusercontent.com/SamunSadabWafi/cf-stats/main/output/light_card.svg" alt="Codeforces Heatmap"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SamunSadabWafi/cf-stats/main/output/max_rating.svg" alt="Max Rating"/>
-  <img src="https://raw.githubusercontent.com/SamunSadabWafi/cf-stats/main/output/rating.svg" alt="Current Rating"/>
-</p>
-
 ## 🏅 Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SamunSadabWafi&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="trophies"/>
